@@ -14,8 +14,8 @@ namespace ConsoleApp1
     class Program
     {
         const string BOOKS_URL = "https://raw.githubusercontent.com/zygmuntz/goodbooks-10k/master/books.csv";
-        const string SEARCH_ENDPOINT = "https://YOUR-SEARCH-RESOURCE-NAME.search.windows.net";
-        const string SEARCH_KEY = "YOUR-SEARCH-ADMIN-KEY";
+        const string SEARCH_ENDPOINT = "https://malefesearchservice.search.windows.net";
+        const string SEARCH_KEY = "6502185BF46C0ACC15C79F6D1E46756C";
         const string SEARCH_INDEX_NAME = "good-books";
 
         static void Main(string[] args)
